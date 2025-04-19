@@ -1,4 +1,4 @@
-![dark messago logo](https://github.com/user-attachments/assets/a7ccbd4b-6419-4b53-bc2b-2b7c4e60a424)
+![light_messago_w_b](https://github.com/user-attachments/assets/925537d5-676a-4c0f-a6f4-a00d8c5b8c13)
 # Messago
 
 Hi! We are Messago team, a team of two people building a social media platform for users to be updated and for the users to update others about different news, topics, and such.
